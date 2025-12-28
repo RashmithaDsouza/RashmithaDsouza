@@ -25,8 +25,7 @@
 
   ##Projects
 
- 🩺 [Breast Cancer Detection System](https://github.com/RashmithaDsouza)
-**Full-Stack AI Web Application**
+ 🩺 Breast Cancer Detection System **Full-Stack AI Web Application**
 - 🎯 **79.85% accuracy** on 780+ BUSI dataset images
 - 🏗️ Built with **React** (frontend) + **Flask** (backend) + **TensorFlow** (ML model)
 - ⚡ Real-time predictions in **under 2 seconds**
