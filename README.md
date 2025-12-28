@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 I'm Rashmitha Maria Dsouza
+#  I'm Rashmitha Maria Dsouza
 
 📍 Mangaluru, Karnataka  
 🎓 MSc Software Technology Student | 💻 AI/ML Enthusiast | 🌐 Full-Stack Developer
