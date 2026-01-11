@@ -40,7 +40,7 @@
 - 🔬 Technologies: Python, TensorFlow, Deep Learning, Computer Vision
 
  AI-Powered Mental Health Assistant
-**National-Level Hackathon Winner | Udbhava 2025**
+**National-Level Hackathon Participant | Udbhava 2025**
 - 🏆 Developed for **NIITE Institute** national hackathon
 - 🏗️ Full-stack application using **Next.js**
 - 📄 PDF extraction for report parsing
