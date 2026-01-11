@@ -25,14 +25,14 @@
 
   ##Projects
 
- 🩺 Breast Cancer Detection System **Full-Stack AI Web Application**
+ 🩺 Breast Cancer Detection System **Full-Stack Web Application**
 - 🎯 **79.85% accuracy** on 780+ BUSI dataset images
 - 🏗️ Built with **React** (frontend) + **Flask** (backend) + **TensorFlow** (ML model)
 - ⚡ Real-time predictions in **under 2 seconds**
 - 🔬 Classifies ultrasound images: Normal/Benign/Malignant
 - 🛠️ Technologies: Python, TensorFlow, OpenCV, React, Flask
 
-😊 Facial Micro-Expression Emotion Recognition
+ Facial Micro-Expression Emotion Recognition
 **Published Research | Presented at SACAIM 2025 International Conference**
 - 🏅 **97.85% accuracy** using custom CNN with CBAM architecture
 - 📊 Curated **8,500+ image dataset** from CK and FER2013 databases
@@ -87,4 +87,4 @@
 - AI/ML Engineering
 - Full-Stack Web Development
 - Backend Development
-- Data Engineering
+
