@@ -12,16 +12,12 @@
 </div>
  💼 ##Professional Experience
 
- 1.Websoft IT Services Pvt Ltd** | Software Testing Intern
+ Websoft IT Services Pvt Ltd** | Software Testing Intern
 *Jun 2025 - Jul 2025 | Mangalore*
 - Performed manual testing on mobile applications
 - Conducted API validation using **Apidog**
 - Verified data flow through Admin Panel testing
 
-2. 💻 **Zephyr Technologies and Solutions** | Full-Stack Web Developer
-*Jun 2023 - Jul 2023 | Mangalore*
-- Developed **Event Management Website** using HTML, CSS, JavaScript, PHP, MySQL
-- Gained hands-on experience in full-stack web development
 
   ##Projects
 
