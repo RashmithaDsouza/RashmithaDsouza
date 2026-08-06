@@ -2,10 +2,9 @@
 
 # Hi, I'm Rashmitha Maria Dsouza
 
-### Full Stack Developer | Python Developer | AI/ML Enthusiast
+### Building full-stack applications and AI-powered solutions with Python, modern web technologies, and machine learning.
 
-M.Sc. Software Technology Graduate passionate about building scalable web applications,
-AI-powered solutions, and intelligent software systems.
+M.Sc. Software Technology Graduate | Full Stack Developer | Python Developer | AI/ML Enthusiast
 
 📍 Mangaluru, Karnataka, India
 
@@ -19,48 +18,40 @@ AI-powered solutions, and intelligent software systems.
 
 # About Me
 
-I am an M.Sc. Software Technology graduate with a strong interest in Full Stack Development, Artificial Intelligence, and Machine Learning. I enjoy designing scalable applications, developing AI-powered software solutions, and continuously learning modern technologies.
+I am an M.Sc. Software Technology graduate passionate about building scalable web applications and intelligent software solutions.
 
-### Areas of Interest
+I work with Python, full-stack technologies, and AI/ML frameworks to develop practical applications ranging from web platforms to document intelligence systems.
 
-- Full Stack Development
-- Artificial Intelligence
-- Machine Learning
-- Large Language Models (LLMs)
-- Computer Vision
+My interests include Generative AI, Large Language Models, Computer Vision, and backend development.
 
-
-# Professional Experience
-
-## Industrial Trainee
-**Mangalore Refinery and Petrochemicals Limited (MRPL)**
-
-Developed an AI-powered document search and report analysis system.
-
-### Responsibilities
-
-- Developed semantic search using LangChain and FAISS
-- Integrated OCR-based PDF processing
-- Built an interactive Streamlit interface
-- Improved enterprise document retrieval workflows
-
-**Technologies**
-
-Python • LangChain • FAISS • Streamlit • Ollama • PaddleOCR
+I enjoy learning new technologies and transforming ideas into functional software solutions.
 
 ---
 
-## Software Testing Intern
-**Websoft IT Services Pvt. Ltd.**
+# Professional Experience
 
-Worked on software quality assurance and API validation.
+## Industrial Trainee  
+### Mangalore Refinery and Petrochemicals Limited (MRPL)
 
-### Responsibilities
+**AI Document Search & Report Analysis System**
 
-- Performed Manual Testing
-- Conducted API Testing using Apidog
-- Verified Admin Panel functionality
-- Reported and tracked software defects
+- Developed a semantic document search system using LangChain and FAISS to improve enterprise document retrieval.
+- Integrated OCR-based PDF processing pipelines using PaddleOCR for extracting information from scanned documents.
+- Built an interactive Streamlit interface for searching and analyzing technical reports.
+- Worked with local LLM integration using Ollama for AI-powered document interaction.
+
+**Tech Stack**
+
+Python • LangChain • FAISS • Streamlit • Ollama • PaddleOCR • PyTorch
+
+---
+
+## Software Testing Intern  
+### Websoft IT Services Pvt. Ltd.
+
+- Performed manual testing to validate application workflows and user functionalities.
+- Conducted API testing using Apidog to verify backend responses and API reliability.
+- Identified, documented, and tracked software defects to improve application quality.
 
 **Tools**
 
@@ -72,40 +63,27 @@ Apidog • Postman
 
 ## Freelance Project
 
-**S4 Holidays** • Sep 2025 – Jan 2026  
-[s4holidays.com](https://s4holidays.com)
+### S4 Holidays
 
-**Technologies**
-
-React.js • Node.js • Express.js • MongoDB • JWT • REST APIs
-
-## Breast Cancer Detection System
-
-AI-powered web application for breast ultrasound image classification.
-
-**Highlights**
-
-- React-based frontend
-- Flask backend
-- TensorFlow deep learning model
-- Real-time prediction
-- OpenCV image processing
+🔗 [s4holidays.com](https://s4holidays.com)
 
 **Tech Stack**
 
-React • Flask • TensorFlow • OpenCV • Python
+React.js • Node.js • Express.js • MongoDB • JWT • REST APIs
 
 ---
 
 ## MRPL AI Report Chatbot
 
-Enterprise AI chatbot for intelligent document search and report analysis.
+**Problem Solved**
+
+Built an AI-based document assistant to help users search and retrieve information from enterprise reports efficiently.
 
 **Highlights**
 
-- Semantic document search
-- OCR-based PDF processing
-- AI-powered report retrieval
+- Implemented semantic search for document retrieval.
+- Processed PDF documents using OCR pipelines.
+- Integrated LLM-based responses for report analysis.
 
 **Tech Stack**
 
@@ -113,25 +91,45 @@ Python • LangChain • FAISS • Streamlit • Ollama • PaddleOCR
 
 ---
 
-## Facial Micro-Expression Emotion Recognition
+## Breast Cancer Detection System
 
-Published research project for real-time facial emotion recognition.
+**Problem Solved**
+
+Developed a deep learning application to assist in classifying breast ultrasound images.
 
 **Highlights**
 
-- Custom CNN architecture
-- Facial micro-expression analysis
-- Research publication
+- Built an image classification pipeline using deep learning.
+- Developed a web interface for model predictions.
+- Applied image preprocessing techniques using OpenCV.
 
 **Tech Stack**
 
-TensorFlow • OpenCV • Computer Vision • Python
+Python • TensorFlow • OpenCV • Flask • React
 
 ---
 
-# Technical Skills
+## Facial Micro-Expression Emotion Recognition
 
-## Programming Languages
+**Problem Solved**
+
+Research project focused on detecting subtle facial expressions using computer vision techniques.
+
+**Highlights**
+
+- Designed a CNN-based emotion recognition model.
+- Applied facial image processing techniques.
+- Presented research findings at an academic conference.
+
+**Tech Stack**
+
+Python • TensorFlow • OpenCV • CNN • Computer Vision
+
+---
+
+# Tech Stack
+
+## Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -139,32 +137,17 @@ TensorFlow • OpenCV • Computer Vision • Python
 
 ---
 
-## Frontend
+## Frameworks & Libraries
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ---
 
-## Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Payload CMS](https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge)
-
----
-
-## Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## Artificial Intelligence
+## AI / Machine Learning
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -174,20 +157,13 @@ TensorFlow • OpenCV • Computer Vision • Python
 
 ---
 
-## Tools
+## Databases & Tools
 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Additional Tools**
-
-- Payload CMS
-- Apidog
-- MongoDB Compass
-- Figma
-- Git
 
 ---
 
@@ -213,35 +189,17 @@ Mangaluru
 
 # Publications & Achievements
 
-- Published Research Paper at SACAIM 2025 International Conference
-- National-Level Hackathon Participant – Udbhava 2025
-- GDG Cloud Community Days – Mangaluru
-- Google Cloud Workshop – Niveus Solutions
+- Research paper presentation at SACAIM 2025 International Conference
+- National-level Hackathon Participant – Udbhava 2025
+- GDG Cloud Community Days Participant
+- Google Cloud Professional Workshop Participant
 - Conducted MERN Stack and Mobile Application Development Workshops
-
 ---
 
-# Career Interests
+# Connect With Me
 
-- Software Engineering
-- Full Stack Development
-- Python Development
-- Artificial Intelligence
-- Machine Learning
-- Backend Development
+📧 rashmithamaria614@gmail.com
 
----
+🔗 LinkedIn: https://linkedin.com/in/rashmitha-maria-dsouza-044a17276
 
-# Connect
-
-**Email**
-
-rashmithamaria614@gmail.com
-
-**LinkedIn**
-
-https://linkedin.com/in/rashmitha-maria-dsouza-044a17276
-
-**GitHub**
-
-https://github.com/RashmithaDsouza
+💻 GitHub: https://github.com/RashmithaDsouza
