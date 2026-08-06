@@ -1,86 +1,263 @@
 <div align="center">
 
-#  I'm Rashmitha Maria Dsouza
+# Hi, I'm Rashmitha Maria Dsouza
 
-📍 Mangaluru, Karnataka  
-🎓 MSc Software Technology Student | 💻 AI/ML Enthusiast | 🌐 Full-Stack Developer
+### Full Stack Developer | Python Developer | AI & Machine Learning Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rashmitha-maria-dsouza-044a17276)
+M.Sc. Software Technology Graduate
+
+Building scalable web applications, AI-powered solutions, and intelligent software systems.
+
+📍 Mangaluru, Karnataka, India
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rashmitha-maria-dsouza-044a17276)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rashmithamaria614@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RashmithaDsouza)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RashmithaDsouza)
 
 </div>
- 💼 ##Professional Experience
 
- Websoft IT Services Pvt Ltd** | Software Testing Intern
-*Jun 2025 - Jul 2025 | Mangalore*
-- Performed manual testing on mobile applications
-- Conducted API validation using **Apidog**
-- Verified data flow through Admin Panel testing
+---
 
+# About Me
 
-  ##Projects
+I am an M.Sc. Software Technology graduate with a strong interest in Full Stack Development, Artificial Intelligence, and Machine Learning. I enjoy designing scalable applications, developing AI-powered software solutions, and continuously learning modern technologies.
 
- 🩺 Breast Cancer Detection System **Full-Stack Web Application**
-- 🎯 **79.85% accuracy** on 780+ BUSI dataset images
-- 🏗️ Built with **React** (frontend) + **Flask** (backend) + **TensorFlow** (ML model)
-- ⚡ Real-time predictions in **under 2 seconds**
-- 🔬 Classifies ultrasound images: Normal/Benign/Malignant
-- 🛠️ Technologies: Python, TensorFlow, OpenCV, React, Flask
+### Areas of Interest
 
- Facial Micro-Expression Emotion Recognition
-**Published Research | Presented at SACAIM 2025 International Conference**
-- 🏅 **97.85% accuracy** using custom CNN with CBAM architecture
-- 📊 Curated **8,500+ image dataset** from CK and FER2013 databases
-- ⚡ Lightweight pipeline for **real-time emotion classification** (7 emotions)
-- 🔬 Technologies: Python, TensorFlow, Deep Learning, Computer Vision
+- Full Stack Development
+- Artificial Intelligence
+- Machine Learning
+- Large Language Models (LLMs)
+- Computer Vision
 
- AI-Powered Mental Health Assistant
-**National-Level Hackathon Participant | Udbhava 2025**
-- 🏆 Developed for **NIITE Institute** national hackathon
-- 🏗️ Full-stack application using **Next.js**
-- 📄 PDF extraction for report parsing
-- 🤖 **Hugging Face API** for automatic summarization
-- 🧠 **Google Gemini API** for personalized mental health strategies
+### Currently Learning
 
- Food Surplus Donation System
-**Social Impact Project | Jan 2024 - Apr 2024**
-- 🌍 Simplifies surplus food distribution to reduce food waste
-- 🛠️ Built with HTML, CSS, JavaScript, PHP (Laravel), MySQL
+- Payload CMS
+- Next.js
+- Retrieval-Augmented Generation (RAG)
+- Cloud Deployment
 
+---
 
-💻##Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# Professional Experience
 
-## Tools & Platforms
+## Industrial Trainee
+**Mangalore Refinery and Petrochemicals Limited (MRPL)**
 
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+Developed an AI-powered document search and report analysis system.
+
+### Responsibilities
+
+- Developed semantic search using LangChain and FAISS
+- Integrated OCR-based PDF processing
+- Built an interactive Streamlit interface
+- Improved enterprise document retrieval workflows
+
+**Technologies**
+
+Python • LangChain • FAISS • Streamlit • Ollama • PaddleOCR
+
+---
+
+## Software Testing Intern
+**Websoft IT Services Pvt. Ltd.**
+
+Worked on software quality assurance and API validation.
+
+### Responsibilities
+
+- Performed Manual Testing
+- Conducted API Testing using Apidog
+- Verified Admin Panel functionality
+- Reported and tracked software defects
+
+**Tools**
+
+Apidog • Postman
+
+---
+
+# Featured Projects
+
+## Breast Cancer Detection System
+
+AI-powered web application for breast ultrasound image classification.
+
+**Highlights**
+
+- React-based frontend
+- Flask backend
+- TensorFlow deep learning model
+- Real-time prediction
+- OpenCV image processing
+
+**Tech Stack**
+
+React • Flask • TensorFlow • OpenCV • Python
+
+---
+
+## MRPL AI Report Chatbot
+
+Enterprise AI chatbot for intelligent document search and report analysis.
+
+**Highlights**
+
+- Semantic document search
+- OCR-based PDF processing
+- AI-powered report retrieval
+
+**Tech Stack**
+
+Python • LangChain • FAISS • Streamlit • Ollama • PaddleOCR
+
+---
+
+## Facial Micro-Expression Emotion Recognition
+
+Published research project for real-time facial emotion recognition.
+
+**Highlights**
+
+- Custom CNN architecture
+- Facial micro-expression analysis
+- Research publication
+
+**Tech Stack**
+
+TensorFlow • OpenCV • Computer Vision • Python
+
+---
+
+## Food Surplus Donation System
+
+Web application for reducing food waste through food donation management.
+
+**Highlights**
+
+- User authentication
+- Food donation management
+- Responsive web interface
+
+**Tech Stack**
+
+HTML • CSS • JavaScript • Laravel • MySQL
+
+---
+
+# Technical Skills
+
+## Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+---
+
+## Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+---
+
+## Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Payload CMS](https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge)
+
+---
+
+## Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## Artificial Intelligence
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+---
+
+## Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Additional Tools:** Apidog | Orange | MongoDB Compass
+**Additional Tools**
 
-##Education
+- Payload CMS
+- Apidog
+- MongoDB Compass
+- Figma
+- Git
 
-🎓 **MSc in Software Technology** | *St Aloysius (Deemed to be University)* | SGPA: **8.71** | May 2026
+---
 
-🎓 **Bachelor of Computer Applications** | *St Agnes College* | CGPA: **7.10** | May 2024
+# Education
 
-##Achievements & Certifications
+## Master of Science (M.Sc.) in Software Technology
 
-1.Published Research Paper** at SACAIM 2025 International Conference  
-2.National-Level Hackathon Winner** | Udbhava 2025 Tech Fest  
-3.GDG Cloud Community Days Mangalore 2024** | Attended  
-4.Google Cloud Professional Workshop** | Niveus Solutions  
-5.Microservices & REST APIs Workshop** | MySQL, Postman, Swagger  
-6.Data-Driven Cardiology & GenAI Models Workshop** | National-Level  
-7.*Conducted Mobile App Development Workshop** | St. Joseph's College, Hassan  
+**St. Aloysius (Deemed to be University)**  
+AIMIT, Mangaluru
 
-💼## **Open to opportunities in:**
+2024 – 2026
+
+---
+
+## Bachelor of Computer Applications (BCA)
+
+**St. Agnes College (Autonomous)**  
+Mangaluru
+
+2021 – 2024
+
+---
+
+# Publications & Achievements
+
+- Published Research Paper at SACAIM 2025 International Conference
+- National-Level Hackathon Participant – Udbhava 2025
+- GDG Cloud Community Days – Mangaluru
+- Google Cloud Workshop – Niveus Solutions
+- Conducted MERN Stack and Mobile Application Development Workshops
+
+---
+
+# Career Interests
+
+- Software Engineering
+- Full Stack Development
 - Python Development
-- AI/ML Engineering
-- Full-Stack Web Development
+- Artificial Intelligence
+- Machine Learning
 - Backend Development
 
+---
+
+# Connect
+
+**Email**
+
+rashmithamaria614@gmail.com
+
+**LinkedIn**
+
+https://linkedin.com/in/rashmitha-maria-dsouza-044a17276
+
+**GitHub**
+
+https://github.com/RashmithaDsouza
