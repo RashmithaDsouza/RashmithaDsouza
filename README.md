@@ -71,6 +71,10 @@ Apidog • Postman
 
 # Featured Projects
 
+**Freelance Project**  
+**S4 Holidays** • Sep 2025 – Jan 2026  
+[s4holidays.com](https://s4holidays.com)
+
 ## Breast Cancer Detection System
 
 AI-powered web application for breast ultrasound image classification.
