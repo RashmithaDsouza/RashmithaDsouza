@@ -121,22 +121,6 @@ TensorFlow • OpenCV • Computer Vision • Python
 
 ---
 
-## Food Surplus Donation System
-
-Web application for reducing food waste through food donation management.
-
-**Highlights**
-
-- User authentication
-- Food donation management
-- Responsive web interface
-
-**Tech Stack**
-
-HTML • CSS • JavaScript • Laravel • MySQL
-
----
-
 # Technical Skills
 
 ## Programming Languages
