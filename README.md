@@ -2,11 +2,10 @@
 
 # Hi, I'm Rashmitha Maria Dsouza
 
-### Full Stack Developer | Python Developer | AI & Machine Learning Enthusiast
+### Full Stack Developer | Python Developer | AI/ML Enthusiast
 
-M.Sc. Software Technology Graduate
-
-Building scalable web applications, AI-powered solutions, and intelligent software systems.
+M.Sc. Software Technology Graduate passionate about building scalable web applications,
+AI-powered solutions, and intelligent software systems.
 
 📍 Mangaluru, Karnataka, India
 
@@ -71,9 +70,14 @@ Apidog • Postman
 
 # Featured Projects
 
-**Freelance Project**  
+## Freelance Project
+
 **S4 Holidays** • Sep 2025 – Jan 2026  
 [s4holidays.com](https://s4holidays.com)
+
+**Technologies**
+
+React.js • Node.js • Express.js • MongoDB • JWT • REST APIs
 
 ## Breast Cancer Detection System
 
