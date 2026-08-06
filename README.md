@@ -30,14 +30,6 @@ I am an M.Sc. Software Technology graduate with a strong interest in Full Stack 
 - Large Language Models (LLMs)
 - Computer Vision
 
-### Currently Learning
-
-- Payload CMS
-- Next.js
-- Retrieval-Augmented Generation (RAG)
-- Cloud Deployment
-
----
 
 # Professional Experience
 
